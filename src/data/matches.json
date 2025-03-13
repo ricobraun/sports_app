@@ -1,0 +1,6164 @@
+[
+  {
+    "id": 2025001001,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-03-22T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 39,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001002,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-03-22T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 61,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001003,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-03-23T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 66,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001004,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-03-24T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 35,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001005,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-03-25T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 42,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001006,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-03-26T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 61,
+      "team2Percentage": 57,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001007,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-03-27T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 62,
+      "team2Percentage": 62,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001008,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-03-27T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 49,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025001009,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-03-28T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 41,
+      "team2Percentage": 51,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001010,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-03-29T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 35,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001011,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-03-30T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 62,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001012,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-03-31T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 50,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001013,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-04-01T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 40,
+      "team2Percentage": 66,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001014,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-04-02T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 43,
+      "team2Percentage": 59,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001015,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-04-02T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 68,
+      "team2Percentage": 36,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001016,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-04-03T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 40,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001017,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-04-04T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 64,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001018,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-04-05T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 36,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001019,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-04-06T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 30,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001020,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-04-07T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 55,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001021,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-04-08T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 65,
+      "team2Percentage": 46,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001022,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-04-08T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 66,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001023,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-04-09T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 60,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001024,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-04-10T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 67,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001025,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-04-11T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 37,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001026,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-04-12T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 45,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001027,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-04-13T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 30,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001028,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-04-13T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 53,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001029,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-04-14T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 59,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001030,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-04-15T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 37,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001031,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-04-16T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 55,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001032,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-04-17T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 65,
+      "team2Percentage": 35,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001033,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-04-18T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 62,
+      "team2Percentage": 30,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001034,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-04-19T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 68,
+      "team2Percentage": 54,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025001035,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-04-19T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 69,
+      "team2Percentage": 55,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001036,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-04-20T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 30,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001037,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-04-21T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 46,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001038,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-04-22T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 56,
+      "team2Percentage": 48,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001039,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-04-23T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 42,
+      "team2Percentage": 58,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001040,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-04-24T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 46,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001041,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-04-25T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 59,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001042,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-04-25T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 67,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001043,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-04-26T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 38,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001044,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-04-27T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 41,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001045,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-04-28T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 61,
+      "team2Percentage": 69,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001046,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-04-29T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 69,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001047,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-04-30T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 36,
+      "team2Percentage": 58,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025001048,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-05-01T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 45,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001049,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-05-01T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 51,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001050,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-05-02T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 68,
+      "team2Percentage": 50,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001051,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-05-03T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 59,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001052,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-05-04T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 53,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001053,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-05-05T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 61,
+      "team2Percentage": 42,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001054,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-05-06T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 69,
+      "team2Percentage": 65,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001055,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-05-06T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 63,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001056,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-05-07T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 57,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001057,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-05-08T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 48,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001058,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-05-09T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Hyderabad Stadium",
+    "predictions": {
+      "team1Percentage": 56,
+      "team2Percentage": 60,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001059,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-05-10T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 66,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001060,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-05-11T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 67,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001061,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Sunrisers Hyderabad",
+    "status": "upcoming",
+    "date": "2025-05-12T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 49,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025001062,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-05-12T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 43,
+      "team2Percentage": 61,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001063,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-05-13T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 52,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025001064,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-05-14T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 49,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025001065,
+    "tournamentId": 2025001,
+    "name": "Delhi Capitals vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-05-15T00:00:00.000Z",
+    "team1": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 57,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001066,
+    "tournamentId": 2025001,
+    "name": "Punjab Kings vs Royal Challengers Bangalore",
+    "status": "upcoming",
+    "date": "2025-05-16T00:00:00.000Z",
+    "team1": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "team2": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 40,
+      "team2Percentage": 59,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025001067,
+    "tournamentId": 2025001,
+    "name": "Rajasthan Royals vs Kolkata Knight Riders",
+    "status": "upcoming",
+    "date": "2025-05-17T00:00:00.000Z",
+    "team1": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "team2": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 33,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025001068,
+    "tournamentId": 2025001,
+    "name": "Sunrisers Hyderabad vs Delhi Capitals",
+    "status": "upcoming",
+    "date": "2025-05-18T00:00:00.000Z",
+    "team1": {
+      "id": 108,
+      "name": "Sunrisers Hyderabad",
+      "code": "SRH",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+    },
+    "team2": {
+      "id": 105,
+      "name": "Delhi Capitals",
+      "code": "DC",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+    },
+    "format": "T20",
+    "venue": "Kolkata Stadium",
+    "predictions": {
+      "team1Percentage": 45,
+      "team2Percentage": 63,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025001069,
+    "tournamentId": 2025001,
+    "name": "Gujarat Titans vs Punjab Kings",
+    "status": "upcoming",
+    "date": "2025-05-18T00:00:00.000Z",
+    "team1": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "team2": {
+      "id": 106,
+      "name": "Punjab Kings",
+      "code": "PBKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+    },
+    "format": "T20",
+    "venue": "Lucknow Stadium",
+    "predictions": {
+      "team1Percentage": 40,
+      "team2Percentage": 33,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025001070,
+    "tournamentId": 2025001,
+    "name": "Lucknow Super Giants vs Rajasthan Royals",
+    "status": "upcoming",
+    "date": "2025-05-19T00:00:00.000Z",
+    "team1": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "team2": {
+      "id": 107,
+      "name": "Rajasthan Royals",
+      "code": "RR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+    },
+    "format": "T20",
+    "venue": "Bangalore Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 50,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025001071,
+    "tournamentId": 2025001,
+    "name": "Mumbai Indians vs Gujarat Titans",
+    "status": "upcoming",
+    "date": "2025-05-20T00:00:00.000Z",
+    "team1": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "team2": {
+      "id": 109,
+      "name": "Gujarat Titans",
+      "code": "GT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+    },
+    "format": "T20",
+    "venue": "Mumbai Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 41,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025001072,
+    "tournamentId": 2025001,
+    "name": "Chennai Super Kings vs Lucknow Super Giants",
+    "status": "upcoming",
+    "date": "2025-05-21T00:00:00.000Z",
+    "team1": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "team2": {
+      "id": 110,
+      "name": "Lucknow Super Giants",
+      "code": "LSG",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+    },
+    "format": "T20",
+    "venue": "Chennai Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 57,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025001073,
+    "tournamentId": 2025001,
+    "name": "Royal Challengers Bangalore vs Mumbai Indians",
+    "status": "upcoming",
+    "date": "2025-05-22T00:00:00.000Z",
+    "team1": {
+      "id": 103,
+      "name": "Royal Challengers Bangalore",
+      "code": "RCB",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+    },
+    "team2": {
+      "id": 101,
+      "name": "Mumbai Indians",
+      "code": "MI",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+    },
+    "format": "T20",
+    "venue": "Delhi Stadium",
+    "predictions": {
+      "team1Percentage": 43,
+      "team2Percentage": 47,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025001074,
+    "tournamentId": 2025001,
+    "name": "Kolkata Knight Riders vs Chennai Super Kings",
+    "status": "upcoming",
+    "date": "2025-05-23T00:00:00.000Z",
+    "team1": {
+      "id": 104,
+      "name": "Kolkata Knight Riders",
+      "code": "KKR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+    },
+    "team2": {
+      "id": 102,
+      "name": "Chennai Super Kings",
+      "code": "CSK",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+    },
+    "format": "T20",
+    "venue": "Ahmedabad Stadium",
+    "predictions": {
+      "team1Percentage": 42,
+      "team2Percentage": 39,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025002001,
+    "tournamentId": 2025002,
+    "name": "Islamabad United vs Karachi Kings",
+    "status": "upcoming",
+    "date": "2025-02-15T00:00:00.000Z",
+    "team1": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "team2": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "format": "T20",
+    "venue": "Peshawar Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 67,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025002002,
+    "tournamentId": 2025002,
+    "name": "Karachi Kings vs Lahore Qalandars",
+    "status": "upcoming",
+    "date": "2025-02-15T00:00:00.000Z",
+    "team1": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "team2": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 65,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025002003,
+    "tournamentId": 2025002,
+    "name": "Lahore Qalandars vs Multan Sultans",
+    "status": "upcoming",
+    "date": "2025-02-16T00:00:00.000Z",
+    "team1": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "team2": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 46,
+      "team2Percentage": 51,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025002004,
+    "tournamentId": 2025002,
+    "name": "Multan Sultans vs Peshawar Zalmi",
+    "status": "upcoming",
+    "date": "2025-02-17T00:00:00.000Z",
+    "team1": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "team2": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 32,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025002005,
+    "tournamentId": 2025002,
+    "name": "Peshawar Zalmi vs Quetta Gladiators",
+    "status": "upcoming",
+    "date": "2025-02-18T00:00:00.000Z",
+    "team1": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "team2": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 47,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025002006,
+    "tournamentId": 2025002,
+    "name": "Quetta Gladiators vs Islamabad United",
+    "status": "upcoming",
+    "date": "2025-02-19T00:00:00.000Z",
+    "team1": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "team2": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "format": "T20",
+    "venue": "Islamabad Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 41,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025002007,
+    "tournamentId": 2025002,
+    "name": "Islamabad United vs Lahore Qalandars",
+    "status": "upcoming",
+    "date": "2025-02-19T00:00:00.000Z",
+    "team1": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "team2": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 64,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025002008,
+    "tournamentId": 2025002,
+    "name": "Karachi Kings vs Multan Sultans",
+    "status": "upcoming",
+    "date": "2025-02-20T00:00:00.000Z",
+    "team1": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "team2": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "format": "T20",
+    "venue": "Rawalpindi Stadium",
+    "predictions": {
+      "team1Percentage": 45,
+      "team2Percentage": 53,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025002009,
+    "tournamentId": 2025002,
+    "name": "Lahore Qalandars vs Peshawar Zalmi",
+    "status": "upcoming",
+    "date": "2025-02-21T00:00:00.000Z",
+    "team1": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "team2": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "format": "T20",
+    "venue": "Peshawar Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 30,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025002010,
+    "tournamentId": 2025002,
+    "name": "Multan Sultans vs Quetta Gladiators",
+    "status": "upcoming",
+    "date": "2025-02-22T00:00:00.000Z",
+    "team1": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "team2": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 46,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025002011,
+    "tournamentId": 2025002,
+    "name": "Peshawar Zalmi vs Islamabad United",
+    "status": "upcoming",
+    "date": "2025-02-23T00:00:00.000Z",
+    "team1": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "team2": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "format": "T20",
+    "venue": "Islamabad Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 52,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025002012,
+    "tournamentId": 2025002,
+    "name": "Quetta Gladiators vs Karachi Kings",
+    "status": "upcoming",
+    "date": "2025-02-24T00:00:00.000Z",
+    "team1": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "team2": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "format": "T20",
+    "venue": "Islamabad Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 67,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025002013,
+    "tournamentId": 2025002,
+    "name": "Islamabad United vs Multan Sultans",
+    "status": "upcoming",
+    "date": "2025-02-24T00:00:00.000Z",
+    "team1": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "team2": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "format": "T20",
+    "venue": "Multan Stadium",
+    "predictions": {
+      "team1Percentage": 41,
+      "team2Percentage": 65,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025002014,
+    "tournamentId": 2025002,
+    "name": "Karachi Kings vs Peshawar Zalmi",
+    "status": "upcoming",
+    "date": "2025-02-25T00:00:00.000Z",
+    "team1": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "team2": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 37,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025002015,
+    "tournamentId": 2025002,
+    "name": "Lahore Qalandars vs Quetta Gladiators",
+    "status": "upcoming",
+    "date": "2025-02-26T00:00:00.000Z",
+    "team1": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "team2": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "format": "T20",
+    "venue": "Peshawar Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 34,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025002016,
+    "tournamentId": 2025002,
+    "name": "Multan Sultans vs Islamabad United",
+    "status": "upcoming",
+    "date": "2025-02-27T00:00:00.000Z",
+    "team1": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "team2": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "format": "T20",
+    "venue": "Peshawar Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 44,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025002017,
+    "tournamentId": 2025002,
+    "name": "Peshawar Zalmi vs Karachi Kings",
+    "status": "upcoming",
+    "date": "2025-02-28T00:00:00.000Z",
+    "team1": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "team2": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "format": "T20",
+    "venue": "Islamabad Stadium",
+    "predictions": {
+      "team1Percentage": 65,
+      "team2Percentage": 39,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025002018,
+    "tournamentId": 2025002,
+    "name": "Quetta Gladiators vs Lahore Qalandars",
+    "status": "upcoming",
+    "date": "2025-03-01T00:00:00.000Z",
+    "team1": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "team2": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "format": "T20",
+    "venue": "Islamabad Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 34,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025002019,
+    "tournamentId": 2025002,
+    "name": "Islamabad United vs Peshawar Zalmi",
+    "status": "upcoming",
+    "date": "2025-03-01T00:00:00.000Z",
+    "team1": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "team2": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "format": "T20",
+    "venue": "Rawalpindi Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 67,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025002020,
+    "tournamentId": 2025002,
+    "name": "Karachi Kings vs Quetta Gladiators",
+    "status": "upcoming",
+    "date": "2025-03-02T00:00:00.000Z",
+    "team1": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "team2": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 56,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025002021,
+    "tournamentId": 2025002,
+    "name": "Lahore Qalandars vs Islamabad United",
+    "status": "upcoming",
+    "date": "2025-03-03T00:00:00.000Z",
+    "team1": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "team2": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "format": "T20",
+    "venue": "Rawalpindi Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 47,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025002022,
+    "tournamentId": 2025002,
+    "name": "Multan Sultans vs Karachi Kings",
+    "status": "upcoming",
+    "date": "2025-03-04T00:00:00.000Z",
+    "team1": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "team2": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 46,
+      "team2Percentage": 46,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025002023,
+    "tournamentId": 2025002,
+    "name": "Peshawar Zalmi vs Lahore Qalandars",
+    "status": "upcoming",
+    "date": "2025-03-05T00:00:00.000Z",
+    "team1": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "team2": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 56,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025002024,
+    "tournamentId": 2025002,
+    "name": "Quetta Gladiators vs Multan Sultans",
+    "status": "upcoming",
+    "date": "2025-03-05T00:00:00.000Z",
+    "team1": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "team2": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 42,
+      "team2Percentage": 30,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025002025,
+    "tournamentId": 2025002,
+    "name": "Islamabad United vs Quetta Gladiators",
+    "status": "upcoming",
+    "date": "2025-03-06T00:00:00.000Z",
+    "team1": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "team2": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "format": "T20",
+    "venue": "Peshawar Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 31,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025002026,
+    "tournamentId": 2025002,
+    "name": "Karachi Kings vs Islamabad United",
+    "status": "upcoming",
+    "date": "2025-03-07T00:00:00.000Z",
+    "team1": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "team2": {
+      "id": 201,
+      "name": "Islamabad United",
+      "code": "ISU",
+      "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 33,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025002027,
+    "tournamentId": 2025002,
+    "name": "Lahore Qalandars vs Karachi Kings",
+    "status": "upcoming",
+    "date": "2025-03-08T00:00:00.000Z",
+    "team1": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "team2": {
+      "id": 202,
+      "name": "Karachi Kings",
+      "code": "KK",
+      "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+    },
+    "format": "T20",
+    "venue": "Lahore Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 53,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025002028,
+    "tournamentId": 2025002,
+    "name": "Multan Sultans vs Lahore Qalandars",
+    "status": "upcoming",
+    "date": "2025-03-09T00:00:00.000Z",
+    "team1": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "team2": {
+      "id": 203,
+      "name": "Lahore Qalandars",
+      "code": "LQ",
+      "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+    },
+    "format": "T20",
+    "venue": "Karachi Stadium",
+    "predictions": {
+      "team1Percentage": 42,
+      "team2Percentage": 34,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025002029,
+    "tournamentId": 2025002,
+    "name": "Peshawar Zalmi vs Multan Sultans",
+    "status": "upcoming",
+    "date": "2025-03-09T23:00:00.000Z",
+    "team1": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "team2": {
+      "id": 204,
+      "name": "Multan Sultans",
+      "code": "MS",
+      "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+    },
+    "format": "T20",
+    "venue": "Rawalpindi Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 61,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025002030,
+    "tournamentId": 2025002,
+    "name": "Quetta Gladiators vs Peshawar Zalmi",
+    "status": "upcoming",
+    "date": "2025-03-09T23:00:00.000Z",
+    "team1": {
+      "id": 206,
+      "name": "Quetta Gladiators",
+      "code": "QG",
+      "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+    },
+    "team2": {
+      "id": 205,
+      "name": "Peshawar Zalmi",
+      "code": "PZ",
+      "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+    },
+    "format": "T20",
+    "venue": "Rawalpindi Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 65,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003001,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-05-30T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 58,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003002,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Durham",
+    "status": "upcoming",
+    "date": "2025-05-30T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 32,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003003,
+    "tournamentId": 2025003,
+    "name": "Durham vs Essex",
+    "status": "upcoming",
+    "date": "2025-05-31T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 63,
+      "team2Percentage": 61,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003004,
+    "tournamentId": 2025003,
+    "name": "Essex vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-06-01T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 33,
+      "team2Percentage": 65,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003005,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-06-02T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 34,
+      "team2Percentage": 30,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003006,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-06-03T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 66,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003007,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Kent",
+    "status": "upcoming",
+    "date": "2025-06-04T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 33,
+      "team2Percentage": 50,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003008,
+    "tournamentId": 2025003,
+    "name": "Kent vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-06-05T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 47,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003009,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-06-05T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 67,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003010,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-06-06T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 32,
+      "team2Percentage": 41,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003011,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-06-07T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 43,
+      "team2Percentage": 49,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003012,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-06-08T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 42,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003013,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-06-09T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 63,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003014,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Surrey",
+    "status": "upcoming",
+    "date": "2025-06-10T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 34,
+      "team2Percentage": 62,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003015,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Sussex",
+    "status": "upcoming",
+    "date": "2025-06-11T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 38,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003016,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-06-11T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 31,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003017,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-06-12T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 40,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003018,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-06-13T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 63,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003019,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Durham",
+    "status": "upcoming",
+    "date": "2025-06-14T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 39,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003020,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Essex",
+    "status": "upcoming",
+    "date": "2025-06-15T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 53,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003021,
+    "tournamentId": 2025003,
+    "name": "Durham vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-06-16T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 66,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003022,
+    "tournamentId": 2025003,
+    "name": "Essex vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-06-17T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 35,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003023,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-06-17T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 52,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003024,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Kent",
+    "status": "upcoming",
+    "date": "2025-06-18T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 51,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003025,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-06-19T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 32,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003026,
+    "tournamentId": 2025003,
+    "name": "Kent vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-06-20T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 67,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003027,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-06-21T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 49,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003028,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-06-22T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 63,
+      "team2Percentage": 35,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003029,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-06-23T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 52,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003030,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-06-23T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 44,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003031,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Surrey",
+    "status": "upcoming",
+    "date": "2025-06-24T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 51,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003032,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Sussex",
+    "status": "upcoming",
+    "date": "2025-06-25T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 64,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003033,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-06-26T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 65,
+      "team2Percentage": 39,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003034,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-06-27T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 33,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003035,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-06-28T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 43,
+      "team2Percentage": 52,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003036,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-06-29T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 60,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003037,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Essex",
+    "status": "upcoming",
+    "date": "2025-06-29T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 31,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003038,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-06-30T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 62,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003039,
+    "tournamentId": 2025003,
+    "name": "Durham vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-07-01T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 49,
+      "team2Percentage": 30,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003040,
+    "tournamentId": 2025003,
+    "name": "Essex vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-07-02T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 55,
+      "team2Percentage": 64,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003041,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Kent",
+    "status": "upcoming",
+    "date": "2025-07-03T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 59,
+      "team2Percentage": 62,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003042,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-07-04T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 31,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003043,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-07-05T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 35,
+      "team2Percentage": 48,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003044,
+    "tournamentId": 2025003,
+    "name": "Kent vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-07-05T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 49,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003045,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-07-06T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 49,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003046,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-07-07T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 41,
+      "team2Percentage": 67,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003047,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Somerset",
+    "status": "upcoming",
+    "date": "2025-07-08T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 31,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003048,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Surrey",
+    "status": "upcoming",
+    "date": "2025-07-09T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 47,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003049,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Sussex",
+    "status": "upcoming",
+    "date": "2025-07-10T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 49,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003050,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-07-11T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 69,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003051,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-07-11T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 55,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003052,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-07-12T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 58,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003053,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-07-13T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 59,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003054,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Durham",
+    "status": "upcoming",
+    "date": "2025-07-14T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 65,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003055,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-07-15T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 32,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003056,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-07-16T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 38,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003057,
+    "tournamentId": 2025003,
+    "name": "Durham vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-07-17T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 67,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003058,
+    "tournamentId": 2025003,
+    "name": "Essex vs Kent",
+    "status": "upcoming",
+    "date": "2025-07-17T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 46,
+      "team2Percentage": 38,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003059,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-07-18T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 54,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003060,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-07-19T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 58,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003061,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-07-20T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 55,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003062,
+    "tournamentId": 2025003,
+    "name": "Kent vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-07-21T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 30,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003063,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-07-22T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 60,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003064,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-07-23T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 52,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003065,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Surrey",
+    "status": "upcoming",
+    "date": "2025-07-23T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 61,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003066,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Sussex",
+    "status": "upcoming",
+    "date": "2025-07-24T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 66,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003067,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-07-25T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 35,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003068,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-07-26T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 33,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003069,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-07-27T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 32,
+      "team2Percentage": 38,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003070,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-07-28T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 30,
+      "team2Percentage": 58,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003071,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Durham",
+    "status": "upcoming",
+    "date": "2025-07-29T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 41,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003072,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Essex",
+    "status": "upcoming",
+    "date": "2025-07-29T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 66,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003073,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-07-30T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 64,
+      "team2Percentage": 51,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003074,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-07-31T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 52,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003075,
+    "tournamentId": 2025003,
+    "name": "Durham vs Kent",
+    "status": "upcoming",
+    "date": "2025-08-01T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 49,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003076,
+    "tournamentId": 2025003,
+    "name": "Essex vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-08-02T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 51,
+      "team2Percentage": 65,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003077,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-08-03T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 49,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003078,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-08-04T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 35,
+      "team2Percentage": 43,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003079,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-08-04T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 50,
+      "team2Percentage": 58,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003080,
+    "tournamentId": 2025003,
+    "name": "Kent vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-08-05T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 30,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003081,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-08-06T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 49,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003082,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Surrey",
+    "status": "upcoming",
+    "date": "2025-08-07T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 62,
+      "team2Percentage": 51,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003083,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Sussex",
+    "status": "upcoming",
+    "date": "2025-08-08T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 44,
+      "team2Percentage": 62,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003084,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-08-09T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 40,
+      "team2Percentage": 64,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003085,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-08-10T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 46,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003086,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-08-10T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 62,
+      "team2Percentage": 59,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003087,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-08-11T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 46,
+      "team2Percentage": 48,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003088,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Durham",
+    "status": "upcoming",
+    "date": "2025-08-12T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 45,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003089,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Essex",
+    "status": "upcoming",
+    "date": "2025-08-13T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 51,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003090,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-08-14T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 66,
+      "team2Percentage": 51,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003091,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-08-15T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 35,
+      "team2Percentage": 41,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003092,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Kent",
+    "status": "upcoming",
+    "date": "2025-08-16T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 52,
+      "team2Percentage": 63,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003093,
+    "tournamentId": 2025003,
+    "name": "Durham vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-08-16T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 58,
+      "team2Percentage": 47,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003094,
+    "tournamentId": 2025003,
+    "name": "Essex vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-08-17T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 36,
+      "team2Percentage": 49,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003095,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-08-18T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 54,
+      "team2Percentage": 43,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003096,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-08-19T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 36,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003097,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-08-20T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 66,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003098,
+    "tournamentId": 2025003,
+    "name": "Kent vs Somerset",
+    "status": "upcoming",
+    "date": "2025-08-21T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 35,
+      "team2Percentage": 36,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003099,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Surrey",
+    "status": "upcoming",
+    "date": "2025-08-22T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 62,
+      "team2Percentage": 49,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003100,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Sussex",
+    "status": "upcoming",
+    "date": "2025-08-22T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 41,
+      "team2Percentage": 49,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003101,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-08-23T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 34,
+      "team2Percentage": 63,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003102,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-08-24T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 61,
+      "team2Percentage": 40,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003103,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-08-25T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 36,
+      "team2Percentage": 41,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003104,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-08-26T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 32,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003105,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Durham",
+    "status": "upcoming",
+    "date": "2025-08-27T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 34,
+      "team2Percentage": 43,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003106,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Essex",
+    "status": "upcoming",
+    "date": "2025-08-28T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 61,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003107,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-08-28T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 60,
+      "team2Percentage": 59,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003108,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-08-29T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 45,
+      "team2Percentage": 42,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003109,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Kent",
+    "status": "upcoming",
+    "date": "2025-08-30T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 46,
+      "team2Percentage": 69,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003110,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-08-31T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 31,
+      "team2Percentage": 46,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003111,
+    "tournamentId": 2025003,
+    "name": "Durham vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-09-01T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 37,
+      "team2Percentage": 69,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003112,
+    "tournamentId": 2025003,
+    "name": "Essex vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-09-02T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 67,
+      "team2Percentage": 30,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003113,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-09-03T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 42,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003114,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-09-03T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 55,
+      "drawPercentage": 4
+    }
+  },
+  {
+    "id": 2025003115,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-09-04T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 35,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003116,
+    "tournamentId": 2025003,
+    "name": "Kent vs Surrey",
+    "status": "upcoming",
+    "date": "2025-09-05T00:00:00.000Z",
+    "team1": {
+      "id": 308,
+      "name": "Kent",
+      "code": "KENT",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 61,
+      "drawPercentage": 8
+    }
+  },
+  {
+    "id": 2025003117,
+    "tournamentId": 2025003,
+    "name": "Lancashire vs Sussex",
+    "status": "upcoming",
+    "date": "2025-09-06T00:00:00.000Z",
+    "team1": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "team2": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 32,
+      "team2Percentage": 53,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003118,
+    "tournamentId": 2025003,
+    "name": "Leicestershire vs Worcestershire",
+    "status": "upcoming",
+    "date": "2025-09-07T00:00:00.000Z",
+    "team1": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "team2": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 61,
+      "team2Percentage": 32,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003119,
+    "tournamentId": 2025003,
+    "name": "Middlesex vs Yorkshire",
+    "status": "upcoming",
+    "date": "2025-09-08T00:00:00.000Z",
+    "team1": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "team2": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 57,
+      "team2Percentage": 43,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003120,
+    "tournamentId": 2025003,
+    "name": "Northamptonshire vs Birmingham Bears",
+    "status": "upcoming",
+    "date": "2025-09-09T00:00:00.000Z",
+    "team1": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "team2": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 35,
+      "team2Percentage": 48,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003121,
+    "tournamentId": 2025003,
+    "name": "Nottinghamshire vs Derbyshire",
+    "status": "upcoming",
+    "date": "2025-09-09T00:00:00.000Z",
+    "team1": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "team2": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 45,
+      "team2Percentage": 43,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003122,
+    "tournamentId": 2025003,
+    "name": "Somerset vs Durham",
+    "status": "upcoming",
+    "date": "2025-09-10T00:00:00.000Z",
+    "team1": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "team2": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "format": "T20",
+    "venue": "Old Trafford Stadium",
+    "predictions": {
+      "team1Percentage": 40,
+      "team2Percentage": 31,
+      "drawPercentage": 5
+    }
+  },
+  {
+    "id": 2025003123,
+    "tournamentId": 2025003,
+    "name": "Surrey vs Essex",
+    "status": "upcoming",
+    "date": "2025-09-11T00:00:00.000Z",
+    "team1": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "team2": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 47,
+      "team2Percentage": 41,
+      "drawPercentage": 7
+    }
+  },
+  {
+    "id": 2025003124,
+    "tournamentId": 2025003,
+    "name": "Sussex vs Glamorgan",
+    "status": "upcoming",
+    "date": "2025-09-12T00:00:00.000Z",
+    "team1": {
+      "id": 316,
+      "name": "Sussex",
+      "code": "SUSSEX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+    },
+    "team2": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "format": "T20",
+    "venue": "Edgbaston Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 42,
+      "drawPercentage": 1
+    }
+  },
+  {
+    "id": 2025003125,
+    "tournamentId": 2025003,
+    "name": "Worcestershire vs Gloucestershire",
+    "status": "upcoming",
+    "date": "2025-09-13T00:00:00.000Z",
+    "team1": {
+      "id": 317,
+      "name": "Worcestershire",
+      "code": "WORCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+    },
+    "team2": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "format": "T20",
+    "venue": "Cardiff Stadium",
+    "predictions": {
+      "team1Percentage": 34,
+      "team2Percentage": 40,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003126,
+    "tournamentId": 2025003,
+    "name": "Yorkshire vs Hampshire",
+    "status": "upcoming",
+    "date": "2025-09-14T00:00:00.000Z",
+    "team1": {
+      "id": 318,
+      "name": "Yorkshire",
+      "code": "YORKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+    },
+    "team2": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 55,
+      "drawPercentage": 2
+    }
+  },
+  {
+    "id": 2025003127,
+    "tournamentId": 2025003,
+    "name": "Birmingham Bears vs Lancashire",
+    "status": "upcoming",
+    "date": "2025-09-15T00:00:00.000Z",
+    "team1": {
+      "id": 301,
+      "name": "Birmingham Bears",
+      "code": "WARKS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+    },
+    "team2": {
+      "id": 309,
+      "name": "Lancashire",
+      "code": "LANCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+    },
+    "format": "T20",
+    "venue": "Trent Bridge Stadium",
+    "predictions": {
+      "team1Percentage": 53,
+      "team2Percentage": 69,
+      "drawPercentage": 9
+    }
+  },
+  {
+    "id": 2025003128,
+    "tournamentId": 2025003,
+    "name": "Derbyshire vs Leicestershire",
+    "status": "upcoming",
+    "date": "2025-09-15T00:00:00.000Z",
+    "team1": {
+      "id": 302,
+      "name": "Derbyshire",
+      "code": "DERBY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+    },
+    "team2": {
+      "id": 310,
+      "name": "Leicestershire",
+      "code": "LEICS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+    },
+    "format": "T20",
+    "venue": "Lords Stadium",
+    "predictions": {
+      "team1Percentage": 65,
+      "team2Percentage": 36,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003129,
+    "tournamentId": 2025003,
+    "name": "Durham vs Middlesex",
+    "status": "upcoming",
+    "date": "2025-09-16T00:00:00.000Z",
+    "team1": {
+      "id": 303,
+      "name": "Durham",
+      "code": "DUR",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+    },
+    "team2": {
+      "id": 311,
+      "name": "Middlesex",
+      "code": "MDX",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 39,
+      "team2Percentage": 59,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003130,
+    "tournamentId": 2025003,
+    "name": "Essex vs Northamptonshire",
+    "status": "upcoming",
+    "date": "2025-09-17T00:00:00.000Z",
+    "team1": {
+      "id": 304,
+      "name": "Essex",
+      "code": "ESS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+    },
+    "team2": {
+      "id": 312,
+      "name": "Northamptonshire",
+      "code": "NORTHANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+    },
+    "format": "T20",
+    "venue": "Headingley Stadium",
+    "predictions": {
+      "team1Percentage": 48,
+      "team2Percentage": 33,
+      "drawPercentage": 3
+    }
+  },
+  {
+    "id": 2025003131,
+    "tournamentId": 2025003,
+    "name": "Glamorgan vs Nottinghamshire",
+    "status": "upcoming",
+    "date": "2025-09-18T00:00:00.000Z",
+    "team1": {
+      "id": 305,
+      "name": "Glamorgan",
+      "code": "GLAM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+    },
+    "team2": {
+      "id": 313,
+      "name": "Nottinghamshire",
+      "code": "NOTTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+    },
+    "format": "T20",
+    "venue": "The Oval Stadium",
+    "predictions": {
+      "team1Percentage": 69,
+      "team2Percentage": 46,
+      "drawPercentage": 6
+    }
+  },
+  {
+    "id": 2025003132,
+    "tournamentId": 2025003,
+    "name": "Gloucestershire vs Somerset",
+    "status": "upcoming",
+    "date": "2025-09-19T00:00:00.000Z",
+    "team1": {
+      "id": 306,
+      "name": "Gloucestershire",
+      "code": "GLOUCS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+    },
+    "team2": {
+      "id": 314,
+      "name": "Somerset",
+      "code": "SOM",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 38,
+      "team2Percentage": 62,
+      "drawPercentage": 0
+    }
+  },
+  {
+    "id": 2025003133,
+    "tournamentId": 2025003,
+    "name": "Hampshire vs Surrey",
+    "status": "upcoming",
+    "date": "2025-09-20T00:00:00.000Z",
+    "team1": {
+      "id": 307,
+      "name": "Hampshire",
+      "code": "HANTS",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+    },
+    "team2": {
+      "id": 315,
+      "name": "Surrey",
+      "code": "SURREY",
+      "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+    },
+    "format": "T20",
+    "venue": "Rose Bowl Stadium",
+    "predictions": {
+      "team1Percentage": 69,
+      "team2Percentage": 42,
+      "drawPercentage": 1
+    }
+  }
+]

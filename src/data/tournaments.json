@@ -1,0 +1,211 @@
+[
+  {
+    "id": 2025001,
+    "name": "Indian Premier League 2025",
+    "startDate": "2025-03-22",
+    "endDate": "2025-05-24",
+    "format": "T20",
+    "category": "National",
+    "logo": "https://i.imgur.com/Yd2xm0K.png",
+    "totalMatches": 74,
+    "location": "India",
+    "teams": {
+      "Mumbai Indians": {
+        "id": 101,
+        "code": "MI",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317005.png"
+      },
+      "Chennai Super Kings": {
+        "id": 102,
+        "code": "CSK",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313421.logo.png"
+      },
+      "Royal Challengers Bangalore": {
+        "id": 103,
+        "code": "RCB",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313418.logo.png"
+      },
+      "Kolkata Knight Riders": {
+        "id": 104,
+        "code": "KKR",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313419.logo.png"
+      },
+      "Delhi Capitals": {
+        "id": 105,
+        "code": "DC",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313422.logo.png"
+      },
+      "Punjab Kings": {
+        "id": 106,
+        "code": "PBKS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/317000/317003.png"
+      },
+      "Rajasthan Royals": {
+        "id": 107,
+        "code": "RR",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313423.logo.png"
+      },
+      "Sunrisers Hyderabad": {
+        "id": 108,
+        "code": "SRH",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313424.logo.png"
+      },
+      "Gujarat Titans": {
+        "id": 109,
+        "code": "GT",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334707.png"
+      },
+      "Lucknow Super Giants": {
+        "id": 110,
+        "code": "LSG",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/334700/334708.png"
+      }
+    }
+  },
+  {
+    "id": 2025002,
+    "name": "Pakistan Super League 2025",
+    "startDate": "2025-02-15",
+    "endDate": "2025-03-15",
+    "format": "T20",
+    "category": "National",
+    "logo": "https://i.imgur.com/Yd2xm0K.png",
+    "totalMatches": 34,
+    "location": "Pakistan",
+    "teams": {
+      "Islamabad United": {
+        "id": 201,
+        "code": "ISU",
+        "logo": "https://www.psl-t20.com/downloads/teams/islamabad-united-logo.png"
+      },
+      "Karachi Kings": {
+        "id": 202,
+        "code": "KK",
+        "logo": "https://www.psl-t20.com/downloads/teams/karachi-kings-logo.png"
+      },
+      "Lahore Qalandars": {
+        "id": 203,
+        "code": "LQ",
+        "logo": "https://www.psl-t20.com/downloads/teams/lahore-qalandars-logo.png"
+      },
+      "Multan Sultans": {
+        "id": 204,
+        "code": "MS",
+        "logo": "https://www.psl-t20.com/downloads/teams/multan-sultans-logo.png"
+      },
+      "Peshawar Zalmi": {
+        "id": 205,
+        "code": "PZ",
+        "logo": "https://www.psl-t20.com/downloads/teams/peshawar-zalmi-logo.png"
+      },
+      "Quetta Gladiators": {
+        "id": 206,
+        "code": "QG",
+        "logo": "https://www.psl-t20.com/downloads/teams/quetta-gladiators-logo.png"
+      }
+    }
+  },
+  {
+    "id": 2025003,
+    "name": "T20 Blast 2025",
+    "startDate": "2025-05-30",
+    "endDate": "2025-09-21",
+    "format": "T20",
+    "category": "National",
+    "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313427.logo.png",
+    "totalMatches": 133,
+    "location": "England",
+    "teams": {
+      "Birmingham Bears": {
+        "id": 301,
+        "code": "WARKS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313428.logo.png"
+      },
+      "Derbyshire": {
+        "id": 302,
+        "code": "DERBY",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313429.logo.png"
+      },
+      "Durham": {
+        "id": 303,
+        "code": "DUR",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313430.logo.png"
+      },
+      "Essex": {
+        "id": 304,
+        "code": "ESS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313431.logo.png"
+      },
+      "Glamorgan": {
+        "id": 305,
+        "code": "GLAM",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313432.logo.png"
+      },
+      "Gloucestershire": {
+        "id": 306,
+        "code": "GLOUCS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313433.logo.png"
+      },
+      "Hampshire": {
+        "id": 307,
+        "code": "HANTS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313434.logo.png"
+      },
+      "Kent": {
+        "id": 308,
+        "code": "KENT",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313435.logo.png"
+      },
+      "Lancashire": {
+        "id": 309,
+        "code": "LANCS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313436.logo.png"
+      },
+      "Leicestershire": {
+        "id": 310,
+        "code": "LEICS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313437.logo.png"
+      },
+      "Middlesex": {
+        "id": 311,
+        "code": "MDX",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313438.logo.png"
+      },
+      "Northamptonshire": {
+        "id": 312,
+        "code": "NORTHANTS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313439.logo.png"
+      },
+      "Nottinghamshire": {
+        "id": 313,
+        "code": "NOTTS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313440.logo.png"
+      },
+      "Somerset": {
+        "id": 314,
+        "code": "SOM",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313441.logo.png"
+      },
+      "Surrey": {
+        "id": 315,
+        "code": "SURREY",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313442.logo.png"
+      },
+      "Sussex": {
+        "id": 316,
+        "code": "SUSSEX",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313443.logo.png"
+      },
+      "Worcestershire": {
+        "id": 317,
+        "code": "WORCS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313444.logo.png"
+      },
+      "Yorkshire": {
+        "id": 318,
+        "code": "YORKS",
+        "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/313400/313445.logo.png"
+      }
+    }
+  }
+]
